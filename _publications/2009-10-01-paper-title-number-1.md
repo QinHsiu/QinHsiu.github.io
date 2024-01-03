@@ -1,15 +1,19 @@
 ---
-title: "Paper Title Number 1"
+title: "Meta-optimized Contrastive Learning for Sequential Recommendation"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2023-07-21-paper-title-number-1
+excerpt: 'This paper is about contrastive learning-based sequential Recommendaion.'
+date: 2023-07-21
+# venue: 'Journal 1'
+paperurl: 'https://arxiv.org/pdf/2304.07763v1.pdf'
+citation: ' Xiuyuan Qin, Huanhuan Yuan, Pengpeng Zhao, Junhua Fang, Fuzhen Zhuang,
+Guanfeng Liu, Yanchi Liu, and Victor S. Sheng. 2023. Meta-optimized Contrastive
+Learning for Sequential Recommendation. In SIGIR. 89–98.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper is about contrastive learning-based sequential Recommendaion.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://arxiv.org/pdf/2304.07763v1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Xiuyuan Qin, Huanhuan Yuan, Pengpeng Zhao, Junhua Fang, Fuzhen Zhuang,
+Guanfeng Liu, Yanchi Liu, and Victor S. Sheng. 2023. Meta-optimized Contrastive
+Learning for Sequential Recommendation. In SIGIR. 89–98..
