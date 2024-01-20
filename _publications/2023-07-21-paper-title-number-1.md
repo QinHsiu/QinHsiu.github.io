@@ -14,7 +14,7 @@ Learning for Sequential Recommendation. In SIGIR. 89–98.'
 ---
 Contrastive Learning (CL) performances as a rising approach to
 address the challenge of sparse and noisy recommendation data.
-Although having achieved promising results, most existing CL methods only perform either hand-crafted data or model augmentation
+Although having achieved promising results, most existing CL methods only perform either hand-crafted data or model augmentation
 for generating contrastive pairs to find a proper augmentation
 operation for different datasets, which makes the model hard to
 generalize. Additionally, since insufficient input data may lead the
