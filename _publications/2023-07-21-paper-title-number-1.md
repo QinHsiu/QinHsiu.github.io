@@ -25,11 +25,11 @@ are always informative and discriminative enough for the training
 processing. Therefore, a more general CL-based recommendation
 model called Meta-optimized Contrastive Learning for sequential
 Recommendation (MCLRec) is proposed in this work. By applying both data augmentation and learnable model augmentation
-operations, this work innovates the standard CL framework by contrasting data and model augmented views for adaptively capturing
+operations, this work innovates the standard CL framework by contrasting data and model augmented views for adaptively capturing
 the informative features hidden in stochastic data augmentation.
 Moreover, MCLRec utilizes a meta-learning manner to guide the
 updating of the model augmenters, which helps to improve the
-quality of contrastive pairs without enlarging the amount of input data. Finally, a contrastive regularization term is considered to
+quality of contrastive pairs without enlarging the amount of input data. Finally, a contrastive regularization term is considered to
 encourage the augmentation model to generate more informative
 augmented views and avoid too similar contrastive pairs within the meta updating. The experimental results on commonly used
 datasets validate the effectiveness of MCLRec.
