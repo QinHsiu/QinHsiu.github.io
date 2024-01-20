@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Chongqing, Chongqing Normal University, 2021
 * M.S. in Jiangsu, Soochow University, 2024 (expected)
-# * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+<!--* Ph.D in Version Control Theory, GitHub University, 2018 (expected)-->
 
 Work experience
 ======
