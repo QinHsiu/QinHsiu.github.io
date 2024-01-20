@@ -6,7 +6,7 @@ excerpt: 'A more general CL-based recommendation
 model called Meta-optimized Contrastive Learning for sequential
 Recommendation (MCLRec) is proposed in this work.'
 date: 2023-07-21
-venue: 'SIGIR 2023'
+# venue: 'SIGIR 2023'
 paperurl: 'https://github.com/QinHsiu/MCLRec/blob/main/pdf/SIGIR2023_MCLRec.pdf'
 citation: ' Xiuyuan Qin, Huanhuan Yuan, Pengpeng Zhao, Junhua Fang, Fuzhen Zhuang,
 Guanfeng Liu, Yanchi Liu, and Victor S. Sheng. 2023. Meta-optimized Contrastive
