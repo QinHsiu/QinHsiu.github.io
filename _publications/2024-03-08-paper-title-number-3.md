@@ -7,7 +7,7 @@ for sequential Recommendation (ICSRec) is proposed to model
 users’ latent intentions.'
 date: 2024-03-08
 venue: 'WSDM'
-paperurl: 'https://arxiv.org/pdf/2310.14318.pdf'
+# paperurl: 'https://arxiv.org/pdf/2310.14318.pdf'
 citation: 'Qin, Xiuyuan, Huanhuan Yuan, Pengpeng Zhao, Guanfeng Liu, Fuzhen Zhuang, and Victor S. Sheng. "Intent Contrastive Learning with Cross Subsequences for Sequential Recommendation." arXiv preprint arXiv:2310.14318 (2023)'
 ---
 
