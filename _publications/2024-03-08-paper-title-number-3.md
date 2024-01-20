@@ -17,11 +17,11 @@ citation: 'Qin, Xiuyuan, Huanhuan Yuan, Pengpeng Zhao, Guanfeng Liu, Fuzhen Zhua
 Sequential Recommendation|WSDM2024|[[Paper]](https://arxiv.org/pdf/2310.14318.pdf) ,[[Code]](https://github.com/QinHsiu/ICSRec?tab=readme-ov-file) ,[[Video]](https://www.bilibili.com/video/BV1Aw411g7xC/?vd_source=96ebb649d074a7680a8f9de2c1275ed6) ,[[Note]](https://juejin.cn/post/7298220509127458843)|
 
 Abstract
-- The user purchase behaviors are mainly influenced by their intentions (e.g., buying clothes for decoration, buying brushes for
+- The user purchase behaviors are mainly influenced by their intentions (e.g., buying clothes for decoration, buying brushes for
 painting, etc.). Modeling a user’s latent intention can significantly
 improve the performance of recommendations. Previous works
-model users’ intentions by considering the predefined label in auxiliary information or introducing stochastic data augmentation to
-learn purposes in the latent space. However, the auxiliary information is sparse and not always available for recommender systems,
+model users’ intentions by considering the predefined label in auxiliary information or introducing stochastic data augmentation to
+learn purposes in the latent space. However, the auxiliary information is sparse and not always available for recommender systems,
 and introducing stochastic data augmentation may introduce noise
 and thus change the intentions hidden in the sequence. Therefore,
 leveraging user intentions for sequential recommendation (SR) can
@@ -36,7 +36,7 @@ problem of no explicit labels for purposes, ICSRec assumes different
 subsequences with the same target item may represent the same
 intention and proposes a coarse-grain intent contrastive learning to
 push these subsequences closer. Then, fine-grain intent contrastive
-learning is mentioned to capture the fine-grain intentions of subsequences in sequential behaviors. Extensive experiments conducted
+learning is mentioned to capture the fine-grain intentions of subsequences in sequential behaviors. Extensive experiments conducted
 on four real-world datasets demonstrate the superior performance
 of the proposed ICSRec1 model compared with baseline methods.
 
